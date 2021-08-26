@@ -1,3 +1,5 @@
+package bk;
+
 import java.util.*;
 
 public class Solution_bk2 {

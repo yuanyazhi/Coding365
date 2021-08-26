@@ -1,3 +1,5 @@
+package mt;
+
 import java.util.*;
 
 public class Main_mt3 {

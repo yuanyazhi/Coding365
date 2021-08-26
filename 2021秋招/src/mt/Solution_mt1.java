@@ -1,3 +1,5 @@
+package mt;
+
 import java.util.Scanner;
 
 public class Solution_mt1 {

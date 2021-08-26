@@ -1,3 +1,5 @@
+package bk;
+
 public class Solution_bk3 {
     public long section (int[] a, int t) {
         // write code here

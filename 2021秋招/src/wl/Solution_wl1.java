@@ -1,3 +1,5 @@
+package wl;
+
 // 蔚来笔试：可见山峰对数量
 public class Solution_wl1 {
     /**
